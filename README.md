@@ -2,7 +2,7 @@
 
 ### Solo Game Developer | Programmer | 3D Artist | Music Composer
 
-I build unsettling horror games that capture the low-poly aesthetic and nostalgic atmosphere of PSX classics like *Silent Hill* and *Fatal Frame*. As a solo developer, I manage the entire creative pipeline—from C# programming to 3D modeling and sound design—to deliver a complete, cohesive vision.
+I build unsettling horror games that capture the low-poly aesthetic and nostalgic atmosphere of PSX classics like *Silent Hill* and *Fatal Frame*. As a solo developer, I manage the entire creative pipeline - from C# programming to 3D modeling and sound design, to deliver a complete, cohesive vision.
 
 ---
 
