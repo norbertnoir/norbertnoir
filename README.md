@@ -24,33 +24,14 @@ As the sole creator, my responsibilities include:
 ---
 ### 🛠️ My Toolkit
 
-#### Programming
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,cpp" /></a>
-</p>
+| Programming                                        | Engines & Tools                                        | Art & VFX                                                  |
+| -------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,java" /> | <img src="https://skillicons.dev/icons?i=unity,unreal,git" /> | <img src="https://skillicons.dev/icons?i=blender,photoshop,ae" /> |
 
-#### Engine, Tools & Art
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=blender" />
-    <img src="https://skillicons.dev/icons?i=photoshop" />
-    <img src="https://skillicons.dev/icons?i=substancepainter" />
-    <img src="https://skillicons.dev/icons?i=zbrush" />
-  </a>
-</p>
-
-#### Audio & Video
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cubase" />
-    <img src="https://skillicons.dev/icons?i=davinciresolve" />
-    <img src="https://skillicons.dev/icons?i=ae" />
-  </a>
-</p>
-
-*Also proficient with: FL Studio, Ableton, Bitwig Studio, Studio One.*
+**Additional Proficiencies:**
+*   **3D Sculpting & Texturing:** ZBrush, Substance Painter
+*   **Digital Audio Workstations (DAWs):** Cubase, FL Studio, Ableton, Bitwig Studio, Studio One
+*   **Video Editing:** DaVinci Resolve
 
 ---
 
