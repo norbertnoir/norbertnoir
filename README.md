@@ -22,22 +22,32 @@ As the sole creator, my responsibilities include:
 **Right now, I'm focused on programming the quest system and designing the enemy AI.**
 
 ---
-
 ### 🛠️ My Toolkit
 
 #### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,cpp" /></a>
 </p>
 
 #### Engine, Tools & Art
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,git,blender,photoshop,substancepainter,zbrush" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=blender" />
+    <img src="https://skillicons.dev/icons?i=photoshop" />
+    <img src="https://skillicons.dev/icons?i=substancepainter" />
+    <img src="https://skillicons.dev/icons?i=zbrush" />
+  </a>
 </p>
 
 #### Audio & Video
 <p>
-  <img src="https://skillicons.dev/icons?i=cubase,davinciresolve,ae" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cubase" />
+    <img src="https://skillicons.dev/icons?i=davinciresolve" />
+    <img src="https://skillicons.dev/icons?i=ae" />
+  </a>
 </p>
 
 *Also proficient with: FL Studio, Ableton, Bitwig Studio, Studio One.*
