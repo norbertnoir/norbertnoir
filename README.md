@@ -26,7 +26,7 @@ As the sole creator, my responsibilities include:
 
 | Programming                                        | Engines & Tools                                        | Art & VFX                                                  |
 | -------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,java" /> | <img src="https://skillicons.dev/icons?i=unity,unreal,git" /> | <img src="https://skillicons.dev/icons?i=blender,photoshop,ae" /> |
+| <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,java" /> | <img src="https://skillicons.dev/icons?i=unity,unreal,godot,git" /> | <img src="https://skillicons.dev/icons?i=blender,photoshop,ae" /> |
 
 **Additional Proficiencies:**
 *   **3D Sculpting & Texturing:** ZBrush, Substance Painter
