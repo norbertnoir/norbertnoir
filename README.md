@@ -25,10 +25,10 @@ As the sole creator, my responsibilities include:
 
 ### 🛠️ My Toolkit
 
-| Programming                               | Engine & Tools                                           | Art & Audio                                                          |
-| ----------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=cs,cpp" /> | <img src="https://skillicons.dev/icons?i=unity,git" />   | <img src="https://skillicons.dev/icons?i=blender,photoshop,ae" />      |
-|                                           | <img src="https://skillicons.dev/icons?i=substancepainter,zbrush" /> | <img src="https://skillicons.dev/icons?i=cubase,davinciresolve" /> |
+| Programming                               | Engine & Tools                                                     | Art & Audio                                                              |
+| ----------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=cs,cpp" /> | <img src="https://skillicons.dev/icons?i=unity,git" />             | <img src="https://skillicons.dev/icons?i=blender,photoshop,ae" />          |
+| <!-- This cell is intentionally left empty --> | <img src="https://skillicons.dev/icons?i=substancepainter,zbrush" /> | <img src="https://skillicons.dev/icons?i=cubase,davinciresolve" /> |
 
 *Also proficient with: FL Studio, Ableton, Bitwig Studio, Studio One.*
 
