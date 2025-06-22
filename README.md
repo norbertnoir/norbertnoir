@@ -39,4 +39,4 @@ As the sole creator, my responsibilities include:
 I am actively seeking opportunities to bring my passion for game creation to a professional team. Let's build something memorable together.
 
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:[norbertwyzykowskii@gmail.com])
-[<img src="https://skillicons.dev/icons?i=linkedin" />]([www.linkedin.com/in/norbert-wyzykowski])
+[<img src="https://skillicons.dev/icons?i=linkedin" />]([https://www.linkedin.com/in/norbert-wyzykowski])
