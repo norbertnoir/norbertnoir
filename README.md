@@ -7,7 +7,7 @@ I build unsettling horror games that capture the low-poly aesthetic and nostalgi
 ---
 
 ### 🔥 Currently in the Forge: Stillwood
-
+![STILLWOOD gameplay](https://media.githubusercontent.com/media/norbertnoir/Stillwood/main/Assets/Screenshots/Zrzut%20ekranu%202025-06-28%20135342.png)
 > A PSX-style survival horror game, built from the ground up in Unity.
 
 <a href="https://github.com/norbertnoir/Stillwood">
